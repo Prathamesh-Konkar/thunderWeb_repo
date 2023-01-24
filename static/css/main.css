@@ -1,0 +1,24 @@
+.navbar-brand {
+    background-color: gold;
+    padding: 5px;
+}
+
+.navbar-brand:hover {
+    background-color: orangered;
+}
+
+.d-inline-block {
+    padding: 2px;
+}
+
+.navbar {
+    padding: 10px;
+}
+
+.imgClass {
+    width: 100%;
+    height: 700px;
+    background-color: grey;
+}
+
+
