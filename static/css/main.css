@@ -1,3 +1,9 @@
+body {
+    background-color: lightcyan;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 .navbar-brand {
     background-color: gold;
     padding: 5px;
@@ -7,18 +13,60 @@
     background-color: orangered;
 }
 
-.d-inline-block {
-    padding: 2px;
+.navbar {
+    padding: 20px;
 }
 
-.navbar {
-    padding: 10px;
+.nav-item {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.nav-item:hover {
+    background-color: lightsalmon;
+}
+
+#carouselExampleCaptions {
+    background-color: lightgray;
 }
 
 .imgClass {
-    width: 100%;
+    width: 90%;
     height: 700px;
     background-color: grey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.serviceId {
+    padding: 30px;
+    background-color: lightgreen;
+}
+
+.card {
+    margin: 25px;
+    padding: 25px;
+    background-color: lightblue;
+}
+
+.infoForm {
+    padding: 50px;
+    background-color: beige;
+    
+}
+
+.contact-class {
+    padding: 50px;
+    background-color: beige;
 }
 
 
+#serviceHeading {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#footer-id {
+    padding-top: 25px;
+}
